@@ -1,0 +1,2 @@
+# Fundingrate
+FundingRateTest
